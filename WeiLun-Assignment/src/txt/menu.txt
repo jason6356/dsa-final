@@ -1,0 +1,9 @@
+F1#Tomyam Fried Rice#8.50
+F2#Chicken Chop#11.90
+F3#Grill Lamb shoulder#15.90
+F4#Fish and Chip#12.90
+F5#Spaghetti Bolognese#11.90
+F6#Seafood Agio Olio#11.90
+F7#Smoked Salmon Pizza#23.90
+F8#Potato Chip#5.90
+F9#Mash Potato#4.90

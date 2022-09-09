@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Jason/Documents/NetBeansProjects/WeiLun-Assignment/src/adt/QueueInterface.java</file>
+            <file>file:/C:/Users/Jason/Documents/NetBeansProjects/WeiLun-Assignment/src/adt/ArrayQueue.java</file>
+            <file>file:/C:/Users/Jason/Documents/NetBeansProjects/WeiLun-Assignment/src/Driver/OrderModule.java</file>
+            <file>file:/C:/Users/Jason/Documents/NetBeansProjects/WeiLun-Assignment/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/Jason/Documents/NetBeansProjects/WeiLun-Assignment/src/entity/Customer.java</file>
+            <file>file:/C:/Users/Jason/Documents/NetBeansProjects/WeiLun-Assignment/src/entity/Food.java</file>
+            <file>file:/C:/Users/Jason/Documents/NetBeansProjects/WeiLun-Assignment/src/entity/Order.java</file>
+            <file>file:/C:/Users/Jason/Documents/NetBeansProjects/WeiLun-Assignment/src/entity/Reservation.java</file>
+            <file>file:/C:/Users/Jason/Documents/NetBeansProjects/WeiLun-Assignment/src/adt/LinkedList.java</file>
+            <file>file:/C:/Users/Jason/Documents/NetBeansProjects/WeiLun-Assignment/src/txt/payment.txt</file>
+            <file>file:/C:/Users/Jason/Documents/NetBeansProjects/WeiLun-Assignment/src/txt/order.txt</file>
+            <file>file:/C:/Users/Jason/Documents/NetBeansProjects/WeiLun-Assignment/src/entity/Payment.java</file>
+            <file>file:/C:/Users/Jason/Documents/NetBeansProjects/WeiLun-Assignment/src/txt/foodList.txt</file>
+            <file>file:/C:/Users/Jason/Documents/NetBeansProjects/WeiLun-Assignment/src/adt/ListInterface.java</file>
+            <file>file:/C:/Users/Jason/Documents/NetBeansProjects/WeiLun-Assignment/src/Driver/ReservationModule.java</file>
+            <file>file:/C:/Users/Jason/Documents/NetBeansProjects/WeiLun-Assignment/src/Driver/PaymentModule.java</file>
+            <file>file:/C:/Users/Jason/Documents/NetBeansProjects/WeiLun-Assignment/src/adt/SetInterface.java</file>
+            <file>file:/C:/Users/Jason/Documents/NetBeansProjects/WeiLun-Assignment/src/txt/menu.txt</file>
+            <file>file:/C:/Users/Jason/Documents/NetBeansProjects/WeiLun-Assignment/src/adt/ArraySet.java</file>
+            <file>file:/C:/Users/Jason/Documents/NetBeansProjects/WeiLun-Assignment/src/entity/CustomerPayment.java</file>
+            <file>file:/C:/Users/Jason/Documents/NetBeansProjects/WeiLun-Assignment/src/Driver/Driver.java</file>
+        </group>
+    </open-files>
+</project-private>
